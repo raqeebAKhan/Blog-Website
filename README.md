@@ -1,5 +1,5 @@
 # Blog
-This is a blog website
+This is a blog website.
 
 ## Technologies
 * MongoDB
