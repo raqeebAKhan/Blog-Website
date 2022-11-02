@@ -9,7 +9,7 @@ This is a blog website.
 * JSON
 * Restful API
 
-## Live Demo : https://drive.google.com/drive/my-drive
+## Live Demo :https://drive.google.com/file/d/1itI8k1c6Adk40HFy19zwlZ1npJLC2kfD/view?usp=share_link
 
 ## Screenshots
 
