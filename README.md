@@ -1,6 +1,14 @@
 # Blog-Website
 This is a blog website
 
+## Technologies
+* MongoDB
+* Express JS
+* ReactJS
+* Node JS
+* JSON
+* Restful API
+
 ## Screenshots
 
 <img src=images/home_page.png height="500px"/>
