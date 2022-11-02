@@ -1,4 +1,4 @@
-# Blog-Website
+# Blog
 This is a blog website
 
 ## Technologies
