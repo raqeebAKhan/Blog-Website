@@ -11,7 +11,7 @@ This is a blog website.
 
 ## Screenshots
 
-<img src=images/home_page.png height="500px"/>
+<img src=home_page.png height="500px"/>
 <br/><br/>
 
 <img src=images/About_page.png height="500px"/>
